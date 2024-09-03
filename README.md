@@ -1,0 +1,1 @@
+Trabalhos realizados durante o curso de ciências atuariais na UFPE, nas cadeiras de modelagem e simulação( R ), Programação A1( Python) e Estatística computacional e multivariada ( R ), todos são de nível iniciante e mostram o início da minha jornada aprendendo essas linguagens.
